@@ -4,7 +4,9 @@ a library for stretchable and shrinkable text view.
 
 * just like the image below: 
 
-<img width="400px" src="http://blog.shellhong.com/demo/images/detailWithNote.jpg">
+<img height="300em" src="images/detailWithNote.jpg">
+<p></p>
+<img height="300em" src="images/stretchableText.gif">
 
 ## How to Use
 
