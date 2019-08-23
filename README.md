@@ -4,9 +4,7 @@ a library for stretchable and shrinkable text view.
 
 * just like the image below: 
 
-<p align="center">
-  <img width="400px" src="http://blog.shellhong.com/demo/images/detailWithNote.jpg">
-</p>
+<img width="400px" src="http://blog.shellhong.com/demo/images/detailWithNote.jpg">
 
 ## How to Use
 
@@ -46,8 +44,8 @@ StretchableTextView(
 )
 ```
 
-* getting example with this library, view[flutter_examples/可伸缩文本组件例子(stretchable and shrinkable text view)](https://github.com/shellhong6/flutter_examples)
+* getting example with this library, view: [flutter_examples/可伸缩文本组件例子(stretchable and shrinkable text view)](https://github.com/shellhong6/flutter_examples)
 <!-- * getting source with this library, view[flutter_stretchable_text_view](https://github.com/shellhong6/flutter_stretchable_text_view) -->
-* getting example about flutter app, view[books_app](https://github.com/shellhong6/books_app)
+* getting example about flutter app, view: [books_app](https://github.com/shellhong6/books_app)
 
 ## Show some :heart: and star the repo to support the project
